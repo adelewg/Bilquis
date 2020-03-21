@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: font-family: 'Lato', sans-serif;;
+}
+
+
+header {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 40px;
+
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  padding: 15px;
+  border: 2px solid magenta;
+
+}
+
+.description {
+  /*border: yellow solid;*/
+  background: #839192;
+  width: 600px;
+  margin: auto;
+  text-align: left;
+  margin-top: 40px;
+  padding: 40px;
+
+}
+
+.sale {
+  background-color: rgba(192 192 192);
+  padding: 10px;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 15px 45px;
+  background: white;
+  color: black;
+}
+
+.btn:hover {
+  background: #4287f5;
+  color: black;
+  
+}
+
+.section-two {
+  padding: 30px;
+}
+
+.section-three {
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
