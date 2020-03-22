@@ -11,8 +11,8 @@ h2 {
 
 header {
   text-align: center;
-  background-color: black;
-  color: white;
+  background-color: #C0C0C0;
+  color: black;
   padding: 40px;
 
 }
@@ -63,7 +63,11 @@ header {
 }
 
 .section-three {
-  background-color: black;
-  color: white;
+  background-color:#C0C0C0;
+  color: black;
   padding: 30px;
+}
+
+.footer {
+  background: black;
 }
