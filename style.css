@@ -14,7 +14,7 @@ h2 {
 
 header {
   text-align: center;
-  background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+  background: linear-gradient(44deg, #808080, #d3d3d3);
   /*background-color: #C0C0C0;*/
   color: black;
   padding: 40px;
@@ -53,13 +53,14 @@ main{
   text-decoration: none;
   font-weight: bold;
   padding: 15px 45px;
-  background: white;
+  background: #f57542;
   color: black;
 }
 
 .btn:hover {
   background: #4287f5;
   color: black;
+  transform: scale(1.05);
   
 }
 
@@ -90,13 +91,18 @@ main{
 /*  font-weight: var(--fw-bold);*/
 }
 
+
+
 .footer__link:hover,
 .social-list__link:hover {
   opacity: .7;
+  
 }
 
 .footer__link:hover {
   text-decoration: underline;
+  transform: scale(5);
+  font-weight: var(--fw-bold);
 }
 
 .social-list {
