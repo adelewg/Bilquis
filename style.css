@@ -14,15 +14,15 @@ h2 {
 
 header {
   text-align: center;
-  background: linear-gradient(44deg, #808080, #d3d3d3);
-  /*background-color: #C0C0C0;*/
+  /*background: linear-gradient(44deg, #808080, #d3d3d3); */
+  background-color: #8c8c8c;
   color: black;
   padding: 40px;
 
 }
 
 main{
-  background: white;
+  background: #e6e6e6;
 }
 
 
